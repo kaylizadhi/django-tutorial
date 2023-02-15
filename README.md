@@ -4,4 +4,4 @@ NPM     : 2006597254
 
 Kelas   : A
 
-Hobi    : Membaca
+Hobi    : Bikin playlist
