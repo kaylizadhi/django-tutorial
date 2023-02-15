@@ -1,5 +1,7 @@
-Nama: Khairinka
+Nama    : Khairinka
 
-NPM: 2006597254
+NPM     : 2006597254
 
-Kelas: A
+Kelas   : A
+
+Hobi    : Membaca
